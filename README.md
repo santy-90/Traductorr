@@ -1,5 +1,7 @@
 # Traductorr
-1- git clone https://github.com/barba99/Traductor
+
+Traductorr
+1- git clone https://github.com/santy-90/Traductorr
 
 2- cd Traductor
 
@@ -8,5 +10,4 @@
 Ingrese un número para elegir el Idioma según la lista
 
 Ingrese su Texto  a traducir
-
-By:៚⋞SANTYY࿐
+By ***#SANTYY****
